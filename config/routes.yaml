@@ -1,0 +1,5 @@
+login:
+  path: /api/login
+  methods: ['POST']
+  defaults:
+    _format: json 
